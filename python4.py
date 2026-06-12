@@ -1,7 +1,7 @@
 #string functions
-str = "i anm studying from apna college"
+str = "i am studying from apna college"
 print(str.endswith("age"))#True
-print(str.endswith("ge"))#False
+print(str.endswith("ag"))#False
 
 str = "gagandeep "
 print(str.capitalize())#Gagandeep
